@@ -1,5 +1,2 @@
 pub mod utils;
-
-fn main() {
-    println!("Hello, world!");
-}
+pub mod core;
